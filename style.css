@@ -1,1 +1,18 @@
-
+h1 {color:green;
+background-color: blue; }
+a {color:red;}
+.vegi {
+	color: pink;
+	position: 
+}
+#background{background-color: yellow }
+#burger:hover{color:brown;
+font-size:47px;}
+.sidebar{
+	position: fixed;
+	background-color: lightblue;
+	width: 30px;
+	border: 9px solid blue; 
+	padding:200px;
+	margin: 40px;
+}
